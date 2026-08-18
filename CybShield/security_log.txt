@@ -1,0 +1,9 @@
+INFO User Logged In
+ERROR Invalid Password
+FAILED LOGIN admin
+WARNING Low Disk Space
+ERROR Access Denied
+FAILED LOGIN root
+UNAUTHORIZED ACCESS DETECTED
+ATTACK DETECTED FROM 192.168.1.5
+WARNING Firewall Disabled
