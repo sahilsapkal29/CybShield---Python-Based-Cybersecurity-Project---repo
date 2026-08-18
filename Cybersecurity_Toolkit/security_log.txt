@@ -1,8 +1,0 @@
-INFO: User Logged In
-ERROR: Database Connection Failed
-FAILED LOGIN: admin
-WARNING: Low Disk Space
-ERROR: Invalid Password
-FAILED LOGIN: root
-WARNING: Firewall Disabled
-ERROR: Access Denied
